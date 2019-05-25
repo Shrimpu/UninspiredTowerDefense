@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75666bc2df4511543a20216153c062bb, type: 3}
+  m_Name: CircleSpreadUnit
+  m_EditorClassIdentifier: 
+  unit: {fileID: 1990092405090636103, guid: ef25751612658c744a0450192c1eef89, type: 3}
+  previewableUnit: {fileID: 8268588240270939043, guid: 28faff5c39c37324582e5b9cf2fa9d2f,
+    type: 3}

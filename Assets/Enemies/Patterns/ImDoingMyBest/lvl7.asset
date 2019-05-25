@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dab0a4294199c144a56d04312dc7449, type: 3}
+  m_Name: lvl7
+  m_EditorClassIdentifier: 
+  enemyGroups:
+  - enemy: {fileID: 5838186476594903639, guid: 3e9c00d0a2b037743a40b9ff5f23b8a0, type: 3}
+    amount: 15
+    spawnrate: 1.5
+    initialWait: 0
+    enemies: []
+  - enemy: {fileID: 5838186476594903639, guid: cb93721579b5e314fa6b3d97e7672caa, type: 3}
+    amount: 20
+    spawnrate: 1
+    initialWait: 0.25
+    enemies: []
+  - enemy: {fileID: 5838186476594903639, guid: 8671faf94fe92d341a1b44d9dcff83fe, type: 3}
+    amount: 2
+    spawnrate: 0.3
+    initialWait: 4
+    enemies: []
